@@ -12,7 +12,7 @@ CREATE TABLE Projetos (
 )
 GO
 
-INSERT INTO Projetos (NomeDoProjeto, Area, Status) 
+INSERT INTO Projetos (NomeDoProjeto, Area, Status) c:\Users\Davi\Downloads\DesenvolvAPI_CRUDfinal_Insomnia_RO.pdf
 VALUES ('Projeto A - Obras BR', 'Construção Civil', 1)
 GO
 
